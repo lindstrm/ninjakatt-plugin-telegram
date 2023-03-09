@@ -1,0 +1,23 @@
+{
+  "name": "ninjakatt-plugin-movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [],
+  "author": "Joachim Lindström",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lindstrm/ninjakatt-plugin-telegram.git"
+  },
+  "homepage": "https://github.com/lindstrm/ninjakatt-plugin-telegram",
+  "bugs": {
+    "url": "https://github.com/lindstrm/ninjakatt-plugin-telegram/issues"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "telegram": "^2.15.10"
+  }
+}
